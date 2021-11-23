@@ -52,18 +52,12 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '4',
       name: 'Reddit',
       icon: 'bookmark',
       link: 'https://reddit.com',
     },
     {
-      id: '5',
+      id: '4',
       name: 'YouTube',
       icon: 'youtube',
       link: 'https://www.youtube.com/',
